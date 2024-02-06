@@ -27,7 +27,9 @@ class App(customtkinter.CTk):
 
 
     def btn_mostrar_on_click(self):
-        pass
+        #snake_case
+        nombre_alumno = prompt("Datos", "Ingrese su nombre")
+        alert("Datos", nombre_alumno)
         
         
     
