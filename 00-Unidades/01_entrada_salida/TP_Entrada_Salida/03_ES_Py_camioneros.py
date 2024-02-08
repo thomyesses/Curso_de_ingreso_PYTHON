@@ -48,6 +48,7 @@ class App(customtkinter.CTk):
     def btn_cantidad_camiones_on_click(self):
         pass
 
+
     def btn_tiempo_llegada_on_click(self):
         pass
     
